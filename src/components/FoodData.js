@@ -1,4 +1,4 @@
-export const FoodData = [
+export const foodData = [
     {
         name: "Coca",
         price: 5,
